@@ -1,0 +1,57 @@
+.header {
+	padding: 18px;
+    width: 625px;
+    height: 43px;
+    background-color: lightblue;
+    color: white;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 35px;
+}
+
+.textfields {
+	display: block;
+    margin-top: 10px;
+    margin-left: 35px;
+    width: 575px;
+    height: 23px;
+    padding: 8px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #CCC;
+
+}
+
+.comment {
+    display: block;
+    margin-top: 10px;
+    margin-left: 35px;
+    width: 575px;
+    height: 100px;
+    padding: 8px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #CCC;
+}
+
+.language {
+    display: block;
+    margin-top: 10px;
+    margin-left: 35px;
+    width: 575px;
+    height: 23px;
+    padding: 8px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #CCC;
+}
+
+.submit_button {
+    background-color: lightblue;
+    color: white;
+    margin-left: 530px;
+    margin-top: 40px;
+    width: 100px;
+    height: 50px;
+    font-size: 22px;
+}

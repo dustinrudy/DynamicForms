@@ -6,6 +6,7 @@ export default React.createClass({
     return (
       <div className="app">
         <nav>
+        <div className="header">Sign Up For My Web App</div>
         </nav>
         <main>
           {this.props.children}
